@@ -5,7 +5,7 @@ Neste projeto, foi realizada uma análise de sentimentos utilizando comentários
 
 <img width=300px src='https://raw.githubusercontent.com/Lud-lud/text_mining_sentiment_analysis/refs/heads/main/foto_mochila.png' alt='foto do produto'>
 
-A análise por meio de nuvem de palavras mostrou as seguintes palavras negativas:
+A análise por meio de nuvem de palavras mostrou os seguintes bigramas negativos:
 
 <img width=500px src='https://github.com/Lud-lud/text_mining_sentiment_analysis/blob/main/nuvem_bigramas.png' alt='nuvem de bigramas'>
 
