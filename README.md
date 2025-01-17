@@ -23,12 +23,12 @@ Foi desenvolvido um índice geral de satisfação para compreender a magnitude d
 
 ### Análise preditiva
 
-Foi desenvolvido um modelo de classificação Naive Bayes a partir de avaliações de produtos no site Buscapé.
+Foram desenvolvidos dois modelos de classificação, Naive Bayes e SVM, a partir de avaliações de produtos no site Buscapé.
 
-A acurácia do modelo foi de 86,75%.
+A acurácia do modelo Naive Bayes foi de 86,75% e o SVM, 90,12%.
 
-O modelo foi aplicado aos 700 comentários sobre a mochila e verificou-se que 669 foram classificados como negativos e 31 como positivos.
+Os modelos foram aplicados aos 700 comentários sobre a mochila e verificou-se que, com Naive Bayes, 669 foram classificados como negativos e 31 como positivos, e com SVM, todos os comentários foram classificados como negativos. Isso se deve às diferenças na sensibilidade e especificidade dos modelos.
 
-Uma breve análise visual indica que a acurácia dos comentários negativos é 100%, enquanto a dos positivos é de 50%.
+Uma breve análise visual indica que a acurácia dos comentários negativos com o modelo Naive Bayes é de 100%, enquanto a dos positivos é de 50%.
 
 Veja todos os detalhes do projeto [aqui](https://github.com/Lud-lud/avaliacao_produto_text_mining_sentiment_analysis/blob/main/text_mining_sentiment_analysis_portuguese_r.ipynb).
