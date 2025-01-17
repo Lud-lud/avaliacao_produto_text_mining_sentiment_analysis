@@ -23,7 +23,7 @@ Foi desenvolvido um índice geral de satisfação para compreender a magnitude d
 
 ### Análise preditiva
 
-Foram desenvolvidos dois modelos de classificação, Naive Bayes e SVM, a partir de avaliações de produtos no site Buscapé.
+Foram desenvolvidos dois modelos de classificação, Naive Bayes e Suport Vector Machine (SVM), a partir de avaliações de produtos no site Buscapé.
 
 A acurácia do modelo Naive Bayes foi de 86,75% e o SVM, 90,12%.
 
